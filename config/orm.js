@@ -1,5 +1,5 @@
 // import in the connection to the database
-var connection = require('../config/connection.js');
+var connection = require('./connection.js');
 
 
 // a function that will be used to build queries
